@@ -10,7 +10,7 @@
 - 💡 Passionate about **Artificial Intelligence, Natural Language Processing, and Data Analysis**  
 - 🛠 Experienced in **project-based learning, research, and technology-driven solutions**  
 - 🌱 Currently learning and improving skills in **AI/ML and Natural Language Processing**  
-- 🎯 Goal: To become a **professional AI Engineer** contributing to impactful innovations  
+- 🎯 Goal: To become a **professional AI Engineer** contributing to impactful innovations   
 
 ---
 
