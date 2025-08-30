@@ -1,6 +1,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=GregReynaldi&label=Profile%20Views&color=0e75b6&style=flat)
 
-<h1 align="center">Hi 👋, I'm Gregorius Reynaldi</h1>
+<h1 align="center">Hello 👋, I'm Gregorius Reynaldi</h1>
 <h3 align="center">Computer Science Student | Aspiring AI Engineer | NLP Engineer</h3>
 
 ---
