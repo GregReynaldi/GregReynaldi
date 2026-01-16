@@ -1,29 +1,37 @@
-![Profile Views](https://komarev.com/ghpvc/?username=GregReynaldi&label=Profile%20Views&color=0e75b6&style=flat)
+<div align="center">
+  <h1>Gregorius Reynaldi</h1>
+  <h3>Computer Science Undergraduate @ Harbin Institute of Technology Shenzhen</h3>
+  <p>NLP Researcher | AI Engineer | Data Analyst</p>
 
-<h1 align="center">Hello 👋, I'm Gregorius Reynaldi</h1>
-<h3 align="center">Computer Science Student | Aspiring AI Engineer | NLP Engineer</h3>
+  <a href="mailto:gregoriusreynaldi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
 
----
+<br />
 
-## 👨‍💻 About Me
-- 🎓 Undergraduate student in **Computer Science** at Harbin Institute of Technology
-- 💡 Passionate about **Artificial Intelligence, Natural Language Processing, and Data Analysis**  
-- 🛠 Experienced in **project-based learning, research, and technology-driven solutions**  
-- 🌱 Currently learning and improving skills in **AI/ML and Natural Language Processing**  
-- 🎯 Goal: To become a **professional AI Engineer** contributing to impactful innovations   
-
----
-
-## 💻 Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+## Professional Summary
+I am a Computer Science student currently conducting research in **Natural Language Processing (NLP)** and **Machine Learning**. My work focuses on building scalable AI solutions and analyzing complex data sets. I am actively seeking opportunities to apply my background in Python and algorithm design to real-world engineering challenges.
 
 ---
 
-## 🌐 Connect with Me
-📱 WeChat: **@gregoriusreyy**  
-📸 Instagram: [@gregoriusreyy](https://instagram.com/gregoriusreyy)  
+## 🛠 Technical Arsenal
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white) |
+| **AI & ML** | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) |
 
 ---
+
+## 🔬 Current Focus
+- **Research:** Investigating efficiency in Transformer architectures.
+- **Development:** Building a custom NLP pipeline for sentiment analysis on financial data.
+- **Learning:** Advanced MLOps and Model Deployment strategies.
+
+<br />
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GregReynaldi&show_icons=true&theme=minimal&hide_border=true" alt="Greg's GitHub Stats" />
+</p>
