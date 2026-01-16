@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Gregorius Reynaldi</h1>
   <h3>Computer Science Undergraduate @ Harbin Institute of Technology Shenzhen</h3>
-  <p>NLP Researcher | AI Engineer | Data Analyst</p>
+  <p>NLP Engineer | AI Engineer | Data Analyst</p>
 
   <a href="mailto:gregoriusreynaldi@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
