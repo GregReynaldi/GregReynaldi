@@ -31,7 +31,3 @@ I am a Computer Science student currently conducting research in **Natural Langu
 - **Learning:** Advanced MLOps and Model Deployment strategies.
 
 <br />
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GregReynaldi&show_icons=true&theme=minimal&hide_border=true" alt="Greg's GitHub Stats" />
-</p>
