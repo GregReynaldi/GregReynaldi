@@ -15,7 +15,7 @@ I am a Computer Science student currently conducting research in **Natural Langu
 
 ---
 
-## 🛠 Technical Arsenal
+## Technical Arsenal
 
 | Category | Technologies |
 | :--- | :--- |
@@ -25,7 +25,7 @@ I am a Computer Science student currently conducting research in **Natural Langu
 
 ---
 
-## 🔬 Current Focus
+## Current Focus
 - **Research:** Investigating efficiency in Transformer architectures.
 - **Development:** Building a custom NLP pipeline for sentiment analysis on financial data.
 - **Learning:** Advanced MLOps and Model Deployment strategies.
